@@ -26,6 +26,6 @@ The purpose of this analysis is to compare the reviews received through the Amaz
 
 ## Summary
 
-  The data and analysis seems to indicate that the vine reviews are less likely to be five star. Which may indicate that there are other pressures at   play in the vine program, like if the review is paid for then they spend more time with the product and are more liekly to find something to lower   the review. 
+  The data and analysis seems to indicate that the vine reviews are less likely to be five star. Which may indicate that there are other pressures at   play in the vine program, like if the review is paid for then they spend more time with the product and are more likely to find something to lower   the review. 
   
   I would recommend running that analysis on all review datasets that Amazon has made available to see if this result is reproducible or if there is   an average review difference that is reached.
